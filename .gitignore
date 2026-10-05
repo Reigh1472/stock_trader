@@ -3,3 +3,7 @@
 .DS_Store
 prices.db
 prices.db
+kis_token.json
+
+.env
+kis_token.json
